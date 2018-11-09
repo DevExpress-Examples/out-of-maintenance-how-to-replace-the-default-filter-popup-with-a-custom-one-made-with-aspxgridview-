@@ -1,6 +1,6 @@
 ﻿<%@ Control Language="vb" AutoEventWireup="true" CodeBehind="FilterPopup.ascx.vb"
     Inherits="CustomFilterPopup.FilterPopup" %>
-<%@ Register Assembly="DevExpress.Web.v15.2, Version=15.2.13.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web" TagPrefix="dx" %>
 
 
