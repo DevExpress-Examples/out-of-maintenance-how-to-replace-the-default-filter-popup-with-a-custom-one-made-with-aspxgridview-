@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/CustomFilterPopup/Default.aspx) (VB: [Default.aspx.vb](./VB/CustomFilterPopup/Default.aspx.vb))
+* [Default.aspx.cs](./CS/CustomFilterPopup/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/CustomFilterPopup/Default.aspx.vb))
+* [FilterPopup.ascx](./CS/CustomFilterPopup/FilterPopup.ascx) (VB: [FilterPopup.ascx](./VB/CustomFilterPopup/FilterPopup.ascx))
+* [FilterPopup.ascx.cs](./CS/CustomFilterPopup/FilterPopup.ascx.cs) (VB: [FilterPopup.ascx](./VB/CustomFilterPopup/FilterPopup.ascx))
+<!-- default file list end -->
 # How to replace the default Filter Popup with a custom one made with ASPxGridView control
 
 
